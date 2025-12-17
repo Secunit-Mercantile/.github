@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/brand/horizontal.png" alt="Secunit Mercantile" width="400">
+  <img src="https://raw.githubusercontent.com/Secunit-Mercantile/.github/main/profile/images/brand/horizontal.png" alt="Secunit Mercantile" width="400">
 </div>
 
 # Secunit Mercantile
